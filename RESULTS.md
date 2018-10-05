@@ -305,6 +305,11 @@ Cluster_ 46   Most influential peel ->  1209
 ## 119 and 736 are most important nodes in the network
 
 ## Target Marketing
+1) Cluster of 0, 3, 6, 8, 14, 16, 19 and 35 has more than 100 members interlinked and can target these cluster members to reach maximum number of other interlinked passengers.
 
+2) Study the indivisual and combined charecteritics of the Most influential peel in all the cluster. Use this information to target specific passengers by incorporating with most influential charecteritics.  
+
+3) The passenger number 119 and 739 are most important in the network and study these passengers to gain useful imformation and use this information to target specific passengers.
 
 ##  To recognise that some individuals are related to (close to ) people of high value to EK?
+119 and 736 are most important nodes in the network and these nodes has the highest degree of connections within the network.
