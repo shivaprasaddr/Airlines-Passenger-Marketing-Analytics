@@ -283,7 +283,7 @@ Cluster_ 45   Most influential peel ->  817
 
 Cluster_ 46   Most influential peel ->  1209
 
-# Clusters with more than 100 members
+## Clusters with more than 100 members [cluster number, total members]
 (0, 296)
 (3, 126)
 (6, 300)
@@ -293,16 +293,16 @@ Cluster_ 46   Most influential peel ->  1209
 (19, 126)
 (35, 104)
 
-# Top 20 nodes by degree:
+## Top 20 nodes by degree:
 298, 736, 304, 389, 205, 93, 561, 359, 119, 91
 
-# Top 20 nodes by eigen Vector:
+## Top 20 nodes by eigen Vector:
 205, 561, 91, 542, 833, 119, 736, 1597, 422, 1578
 
-# Top 20 nodes by between centrality
+## Top 20 nodes by between centrality
 298, 304, 119, 156, 389, 841, 736, 782, 574, 93
 
-# 119 and 736 are most important nodes in the network
+## 119 and 736 are most important nodes in the network
 
 ## Target Marketing
 
